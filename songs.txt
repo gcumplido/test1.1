@@ -1,15 +1,10 @@
-Cancion uno
-Cancion dos
-esta es otra cancion
-titatiuM
-Esto ya no es panda
-y estoy escribiendo cosas nuevas
-que no deberian de estar aqui
-elimine lo de alex para poner
-algo nuevo
-martin
-pedro
-esto es otro cambio
-me gustan las canciones
-necesito escribir mas
-una u otras
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
