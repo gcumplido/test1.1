@@ -1,17 +1,10 @@
-
-Tambien estoy cambiando esto
-porque quiero ver
-como hacer el merge
-
-Borre el uno para hacer un cambio
-y agregar nuevas cosas que
-nos son numeros
-
+1
 2
-3
-a
-b
-c
+3adasd
+sad
+sadsa
+dsadsa
+sad
 d
 8
 9
